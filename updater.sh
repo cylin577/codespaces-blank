@@ -10,4 +10,3 @@ echo "UPDATER:updateing"
 sleep 5
 sudo apt-get upgrade
 echo "UPDATER:update is done please reboot"
-exit
